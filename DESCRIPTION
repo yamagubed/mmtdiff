@@ -1,6 +1,6 @@
 Package: mmtdiff
 Version: 1.0.0
-Title: Moment-matching Approximation for t-Distribution Differences
+Title: Moment-Matching Approximation for t-Distribution Differences
 Authors@R: c(
     person(given  = "Yusuke",
            family = "Yamaguchi",
@@ -16,7 +16,7 @@ Description: Implements the moment-matching approximation for differences
     scenarios of independent components and the more general multivariate
     t-distributions with arbitrary dependence structures. Methods build
     on the classical moment-matching approximation method (e.g., Casella and
-    Berger 2024 <doi: 10.1201/9781003456285>).
+    Berger (2024) <doi:10.1201/9781003456285>).
 License: MIT + file LICENSE
 Encoding: UTF-8
 RoxygenNote: 7.3.3
